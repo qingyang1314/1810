@@ -2,5 +2,5 @@
 echo qing;
 
 echo yang;
-echo 3;
+echo 4;
 ?>
